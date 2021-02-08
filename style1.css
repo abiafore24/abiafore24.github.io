@@ -2,5 +2,7 @@ body {
   background-color: rgb(198, 204, 255);
   }
 #nav-table { width: 1015px; }
+
+#nav-td {width: 200px; text-align:center;}
             
      
