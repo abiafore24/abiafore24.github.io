@@ -4,4 +4,12 @@ body { background-image: url("https://miro.medium.com/max/10514/1*TG8yT-bltiG0Fc
 
 #nav-td {width: 254px; text-align:center;}
 
-p { width: 1016px; text-align:center; }
+h1 {
+  color: white;
+}
+
+p { 
+  width: 1016px; text-align:center;
+  color: white;
+}
+
